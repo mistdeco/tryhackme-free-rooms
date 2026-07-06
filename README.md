@@ -84,7 +84,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
 - [ ] [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 - [ ] [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 - [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 - [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 - [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
