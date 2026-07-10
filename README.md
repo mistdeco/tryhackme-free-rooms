@@ -89,8 +89,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 - [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 - [x] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-- [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [x] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 - [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
