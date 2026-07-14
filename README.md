@@ -115,9 +115,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Data Representation](https://tryhackme.com/room/datarepresentation)
 - [ ] [TryHackMe | Data Encoding](https://tryhackme.com/room/dataencoding)
 - [ ] [TryHackMe | The CIA Triad](https://tryhackme.com/room/theciatriad)
-- [ ] [TryHackMe | Inside a Computer System](https://tryhackme.com/room/insideacomputer)
-- [ ] [TryHackMe | Computer Types](https://tryhackme.com/room/computertypes)
-- [ ] [TryHackMe | Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics)
+- [x] [TryHackMe | Inside a Computer System](https://tryhackme.com/room/insideacomputer)
+- [x] [TryHackMe | Computer Types](https://tryhackme.com/room/computertypes)
+- [x] [TryHackMe | Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics)
 - [ ] [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
 - [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
@@ -793,7 +793,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Cloud
 
-- [ ] [TryHackMe | Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals)
+- [x] [TryHackMe | Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals)
 - [ ] [TryHackMe | Cloud Security Pitfalls](https://tryhackme.com/room/cloudsecuritypitfalls)
 
 ## Special Events
